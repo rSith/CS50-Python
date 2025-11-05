@@ -1,74 +1,66 @@
-###### \# CS50's Introduction to Computer Science - Python
-
-
+# CS50's Introduction to Computer Science - Python
 
 This repository contains my solutions to CS50's Python problem sets and projects.
 
+## Course Information
 
+- **Course:** CS50's Introduction to Computer Science
+- **Focus:** Python Programming
+- **University:** Harvard University (Online)
 
-\## Course Information
+## Contents
 
-\- \*\*Course:\*\* CS50’s Introduction to Programming with Python
+### Week 0 - Functions, Variables
+- Problem sets and solutions for Week 0
 
-\- \*\*Focus:\*\* Python Programming
+### Week 1 - Conditionals
+- Problem sets and solutions for Week 1
+- Topics: if/elif/else statements, comparison operators
 
-\- \*\*University:\*\* Harvard University (Online)
+### Week 2 - Loops
+- Problem sets and solutions for Week 2
+- Topics: for loops, while loops, iteration
 
+### Week 3 - Exceptions
+- Problem sets and solutions for Week 3
+- Topics: try/except, error handling
 
+## How to Use
 
-\## Contents
+1. Clone this repository
+2. Navigate to the week/problem you want to review
+3. Open the `.py` file to see the solution
+4. Try to understand the approach before looking at the code
 
+## Learning Goals
 
+- ✅ Master Python fundamentals
+- ✅ Understand algorithms and data structures
+- ✅ Practice problem-solving skills
+- ✅ Build professional GitHub portfolio
 
-\### Week 0 - Functions, Variables
+## Topics Covered
 
-\### Week 1 - Conditionals
+- Functions and Variables
+- Conditionals and Boolean Logic
+- Loops and Iteration
+- Exceptions and Error Handling
+- Libraries and Modules
+- Unit Tests
+- File I/O
+- Regular Expressions
+- Object-Oriented Programming
 
-\### Week 2 - Loops
+## Resources
 
-\### Week 3 - Exceptions
+- [CS50 Official Website](https://cs50.harvard.edu/)
+- [CS50 Python Course](https://cs50.harvard.edu/python/)
+- [CS50 YouTube Channel](https://www.youtube.com/c/cs50)
 
-\### Week 4 - Libraries
-
-\### Week 5 - Unit Tests
-
-\### Week 6 - File I/O
-
-\### Week 7 - Regular Expressions
-
-\### Week 8 - Object-Oriented Programming
-
-\### Week 9 - Et Cetera
-
-
-
-\## Learning Goals
-
-\- ✅ Master Python fundamentals
-
-\- ✅ Understand algorithms and data structures
-
-\- ✅ Practice problem-solving skills
-
-
-
-\## Resources
-
-\- \[CS50 Official Website](https://cs50.harvard.edu/)
-
-\- \[CS50 Python Course](https://cs50.harvard.edu/python/)
-
-
-
-\## Author
+## Author
 
 Ranshitha Attanayake
 
-
-
 ---
 
-\*Solutions completed as part of CS50's Introduction to Computer Science course\*
-
-
-
+*Solutions completed as part of CS50's Introduction to Computer Science course*
